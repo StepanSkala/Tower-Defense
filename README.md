@@ -1,3 +1,6 @@
+### Important ###
+For this game to work, install all files except "verze_1.py"
+#################
 This is an end-of-year programming project. 
 The goal is to create a working tower-defense-type game.
 As of now, the game seems to be working, although there might be some cosmetic changes coming up.
